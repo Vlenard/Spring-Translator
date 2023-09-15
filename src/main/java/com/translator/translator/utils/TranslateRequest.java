@@ -1,6 +1,5 @@
 package com.translator.translator.utils;
 
-import com.deepl.api.Language;
 import org.jetbrains.annotations.Nullable;
 
 public class TranslateRequest {
